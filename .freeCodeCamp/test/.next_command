@@ -108,3 +108,5 @@ git checkout -b main
 git add .
 git commit -m "fix: remove trailing zeros from atomic_mass column"
 git add .
+git commit -m "fix: remove trailing zeros from atomic_mass column"
+git add .freeCodeCamp/test/.cwd
