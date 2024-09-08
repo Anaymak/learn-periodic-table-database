@@ -137,3 +137,6 @@ git add .
 git commit -m "feat: create element.sh script"
 git push
 git add .
+git commit -m "refactor: adjust schema for atomic_mass and type_id"
+git push
+git add .
