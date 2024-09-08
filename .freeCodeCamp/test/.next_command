@@ -110,3 +110,14 @@ git commit -m "fix: remove trailing zeros from atomic_mass column"
 git add .
 git commit -m "fix: remove trailing zeros from atomic_mass column"
 git add .freeCodeCamp/test/.cwd
+git commit -m "fix: remove trailing zeros from atomic_mass column"
+git push
+git remote -v
+git push
+git remote set-url origin https://github.com/Anaymak/learn-periodic-table-database.git
+ssh -T git@github.com
+git push
+git push
+git commit -m "fix: remove trailing zeros from atomic_mass column"
+git add .freeCodeCamp/test/.cwd
+git add .
