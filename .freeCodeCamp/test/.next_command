@@ -121,3 +121,7 @@ git push
 git commit -m "fix: remove trailing zeros from atomic_mass column"
 git add .freeCodeCamp/test/.cwd
 git add .
+git commit -m "fix: remove trailing zeros from atomic_mass column"
+git push
+git commit -m "feat: add Fluorine element"
+git add .
